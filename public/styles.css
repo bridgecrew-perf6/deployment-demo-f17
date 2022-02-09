@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    margin: 20px;
+}
+
+p {
+    color: coral;
+    margin: 20px;
+}
